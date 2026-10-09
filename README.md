@@ -2,7 +2,7 @@
 
 Checks a creator post against TikTok's public ad policy before a brand boosts it as a paid ad.
 
-Live demo: https://boostcheck.onrender.com (free Render instance: the first load after idle can take about a minute) · Walkthrough video (70 s, silent): https://boostcheck.onrender.com/demo.mp4 (also `public/demo.mp4`) · Eval: https://boostcheck.onrender.com/eval
+Live demo: https://boostcheck.onrender.com (free Render instance: the first load after idle can take about a minute) · Walkthrough video (72 s, silent): https://boostcheck.onrender.com/demo.mp4 (also `public/demo.mp4`) · Eval: https://boostcheck.onrender.com/eval
 
 ## Problem
 
