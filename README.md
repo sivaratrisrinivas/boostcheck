@@ -2,7 +2,7 @@
 
 Checks a creator post against TikTok's public ad policy before a brand boosts it as a paid ad.
 
-Live demo: https://boostcheck.vercel.app · Walkthrough video (60 s): https://boostcheck.vercel.app/demo.mp4 · Eval: https://boostcheck.vercel.app/eval
+Live demo: https://boostcheck.onrender.com (free Render instance: the first load after idle can take about a minute) · Walkthrough video (70 s, silent): https://boostcheck.onrender.com/demo.mp4 (also `public/demo.mp4`) · Eval: https://boostcheck.onrender.com/eval
 
 ## Problem
 
@@ -20,7 +20,7 @@ TikTok's [Misleading and false content](https://ads.tiktok.com/help/article/tikt
 | Model check (Groq `gpt-oss-120b`, JSON schema) for implied results, before/after, promos with no terms; a flag is dropped unless its quote is found word for word | The boost: "Approve boost" only writes `queued` to the database |
 | Decision, drafted creator note, reviewer override, event log, all in Postgres | The creator's edit: a pre-written revision is applied when you click it |
 | 20-case eval runner with stored runs and a results page | AI use is read from declared metadata, not detected from pixels or audio |
-| Campaign table with status chips, deployed on Vercel | No Whisper, OCR, Meta policy, or sending notes to creators |
+| Campaign table with status chips, deployed on Render's free tier | No Whisper, OCR, Meta policy, or sending notes to creators |
 
 **Eval:** 18/20 on the latest run (bar 17/20); four runs scored 19, 18, 19, 18. All misses are false alarms on clean posts. Details, failure types and what was tuned on the eval: [evals/RUNS.md](evals/RUNS.md).
 
@@ -34,7 +34,7 @@ npm run dev             # http://localhost:3000, uses embedded PGlite, no databa
 npm run eval            # runs the 20 cases against the model, writes evals/results/
 ```
 
-Set `DATABASE_URL` to use any Postgres. The live demo uses a free Render Postgres (free Render databases expire after 30 days; the app falls back to PGlite without one). Without a model key, posts the rules can't clear go to "Needs a person" instead of auto-clearing. `npm run seed` re-runs the checker over the 120 synthetic posts.
+Set `DATABASE_URL` to use any Postgres. The live demo uses a free Render Postgres over Render's private network (free Render databases expire after 30 days, here around Nov 9, 2026; the app falls back to PGlite without one). Without a model key, posts the rules can't clear go to "Needs a person" instead of auto-clearing. `npm run seed` re-runs the checker over the 120 synthetic posts.
 
 ## Next steps
 
