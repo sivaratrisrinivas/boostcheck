@@ -1,0 +1,370 @@
+{
+  "started": "2026-10-09T21:07:35.243Z",
+  "models": [
+    "groq/openai/gpt-oss-120b",
+    "rules-only"
+  ],
+  "score": 18,
+  "total": 20,
+  "bar": 17,
+  "rows": [
+    {
+      "id": "E01",
+      "group": "clean",
+      "expected": "OK_TO_BOOST",
+      "got": "OK_TO_BOOST",
+      "pass": true,
+      "why": "",
+      "flags": [],
+      "notes": [],
+      "model": "groq/openai/gpt-oss-120b"
+    },
+    {
+      "id": "E02",
+      "group": "clean",
+      "expected": "OK_TO_BOOST",
+      "got": "NEEDS_EDIT",
+      "pass": false,
+      "why": "decision NEEDS_EDIT, expected OK_TO_BOOST",
+      "flags": [
+        {
+          "type": "implied_result",
+          "source": "transcript",
+          "quote": "helps me not overspend on takeout",
+          "section": "misleading_claims",
+          "by": "model"
+        }
+      ],
+      "notes": [],
+      "model": "groq/openai/gpt-oss-120b"
+    },
+    {
+      "id": "E03",
+      "group": "clean",
+      "expected": "OK_TO_BOOST",
+      "got": "NEEDS_EDIT",
+      "pass": false,
+      "why": "decision NEEDS_EDIT, expected OK_TO_BOOST",
+      "flags": [
+        {
+          "type": "implied_result",
+          "source": "transcript",
+          "quote": "the streak reminder actually got me off the couch today",
+          "section": "misleading_claims",
+          "by": "model"
+        }
+      ],
+      "notes": [],
+      "model": "groq/openai/gpt-oss-120b"
+    },
+    {
+      "id": "E04",
+      "group": "clean",
+      "expected": "OK_TO_BOOST",
+      "got": "OK_TO_BOOST",
+      "pass": true,
+      "why": "",
+      "flags": [],
+      "notes": [],
+      "model": "groq/openai/gpt-oss-120b"
+    },
+    {
+      "id": "E05",
+      "group": "clean",
+      "expected": "OK_TO_BOOST",
+      "got": "OK_TO_BOOST",
+      "pass": true,
+      "why": "",
+      "flags": [],
+      "notes": [],
+      "model": "groq/openai/gpt-oss-120b"
+    },
+    {
+      "id": "E06",
+      "group": "absolute",
+      "expected": "NEEDS_EDIT",
+      "got": "NEEDS_EDIT",
+      "pass": true,
+      "why": "",
+      "flags": [
+        {
+          "type": "absolute_claim",
+          "source": "caption",
+          "quote": "the #1 serum on TikTok right now and I get why #ad",
+          "section": "misleading_claims",
+          "by": "rules"
+        }
+      ],
+      "notes": [],
+      "model": "groq/openai/gpt-oss-120b"
+    },
+    {
+      "id": "E07",
+      "group": "absolute",
+      "expected": "NEEDS_EDIT",
+      "got": "NEEDS_EDIT",
+      "pass": true,
+      "why": "",
+      "flags": [
+        {
+          "type": "absolute_claim",
+          "source": "caption",
+          "quote": "get cash in 10 seconds with Pocketly, no joke #ad",
+          "section": "misleading_claims",
+          "by": "rules"
+        }
+      ],
+      "notes": [],
+      "model": "groq/openai/gpt-oss-120b"
+    },
+    {
+      "id": "E08",
+      "group": "absolute",
+      "expected": "NEEDS_EDIT",
+      "got": "NEEDS_EDIT",
+      "pass": true,
+      "why": "",
+      "flags": [
+        {
+          "type": "absolute_claim",
+          "source": "caption",
+          "quote": "Loopstep is guaranteed to make you lose 10 pounds in your first week #ad",
+          "section": "misleading_claims",
+          "by": "rules"
+        },
+        {
+          "type": "implied_result",
+          "source": "caption",
+          "quote": "guaranteed to make you lose 10 pounds in your first week",
+          "section": "misleading_claims",
+          "by": "model"
+        }
+      ],
+      "notes": [],
+      "model": "groq/openai/gpt-oss-120b"
+    },
+    {
+      "id": "E09",
+      "group": "implied_vo",
+      "expected": "NEEDS_EDIT",
+      "got": "NEEDS_EDIT",
+      "pass": true,
+      "why": "",
+      "flags": [
+        {
+          "type": "implied_result",
+          "source": "transcript",
+          "quote": "my acne scars are just gone now",
+          "section": "misleading_claims",
+          "by": "model"
+        }
+      ],
+      "notes": [],
+      "model": "groq/openai/gpt-oss-120b"
+    },
+    {
+      "id": "E10",
+      "group": "implied_vo",
+      "expected": "NEEDS_EDIT",
+      "got": "NEEDS_EDIT",
+      "pass": true,
+      "why": "",
+      "flags": [
+        {
+          "type": "implied_result",
+          "source": "transcript",
+          "quote": "I'm making an extra eight hundred dollars a month without doing anything",
+          "section": "misleading_claims",
+          "by": "model"
+        }
+      ],
+      "notes": [],
+      "model": "groq/openai/gpt-oss-120b"
+    },
+    {
+      "id": "E11",
+      "group": "before_after",
+      "expected": "NEEDS_EDIT",
+      "got": "NEEDS_EDIT",
+      "pass": true,
+      "why": "",
+      "flags": [
+        {
+          "type": "before_after",
+          "source": "transcript",
+          "quote": "On the left is me before Dewly, on the right is two weeks later",
+          "section": "before_after",
+          "by": "model"
+        },
+        {
+          "type": "implied_result",
+          "source": "transcript",
+          "quote": "Look at the lines around my eyes",
+          "section": "misleading_claims",
+          "by": "model"
+        }
+      ],
+      "notes": [],
+      "model": "groq/openai/gpt-oss-120b"
+    },
+    {
+      "id": "E12",
+      "group": "before_after",
+      "expected": "NEEDS_EDIT",
+      "got": "NEEDS_EDIT",
+      "pass": true,
+      "why": "",
+      "flags": [
+        {
+          "type": "before_after",
+          "source": "caption",
+          "quote": "before vs after 30 days",
+          "section": "before_after",
+          "by": "model"
+        }
+      ],
+      "notes": [],
+      "model": "groq/openai/gpt-oss-120b"
+    },
+    {
+      "id": "E13",
+      "group": "promo_mismatch",
+      "expected": "NEEDS_EDIT",
+      "got": "NEEDS_EDIT",
+      "pass": true,
+      "why": "",
+      "flags": [
+        {
+          "type": "promo_mismatch",
+          "source": "caption",
+          "quote": "50% off Dewly with my code DEW30, go go go #ad",
+          "section": "inconsistent_info",
+          "by": "rules"
+        }
+      ],
+      "notes": [],
+      "model": "groq/openai/gpt-oss-120b"
+    },
+    {
+      "id": "E14",
+      "group": "promo_mismatch",
+      "expected": "NEEDS_EDIT",
+      "got": "NEEDS_EDIT",
+      "pass": true,
+      "why": "",
+      "flags": [
+        {
+          "type": "promo_mismatch",
+          "source": "transcript",
+          "quote": "They are doing 60% off the annual plan right now, which is honestly wild for how much I use it.",
+          "section": "inconsistent_info",
+          "by": "rules"
+        }
+      ],
+      "notes": [],
+      "model": "groq/openai/gpt-oss-120b"
+    },
+    {
+      "id": "E15",
+      "group": "ai_unlabeled",
+      "expected": "ADD_AI_LABEL",
+      "got": "ADD_AI_LABEL",
+      "pass": true,
+      "why": "",
+      "flags": [
+        {
+          "type": "unlabeled_ai",
+          "source": "metadata",
+          "quote": "aiUse: ai_voice_clone; aiLabel: off",
+          "section": "aigc",
+          "by": "rules"
+        }
+      ],
+      "notes": [],
+      "model": "groq/openai/gpt-oss-120b"
+    },
+    {
+      "id": "E16",
+      "group": "ai_unlabeled",
+      "expected": "ADD_AI_LABEL",
+      "got": "ADD_AI_LABEL",
+      "pass": true,
+      "why": "",
+      "flags": [
+        {
+          "type": "unlabeled_ai",
+          "source": "metadata",
+          "quote": "aiUse: ai_generated_person; aiLabel: off",
+          "section": "aigc",
+          "by": "rules"
+        }
+      ],
+      "notes": [],
+      "model": "groq/openai/gpt-oss-120b"
+    },
+    {
+      "id": "E17",
+      "group": "minor_ai",
+      "expected": "OK_TO_BOOST",
+      "got": "OK_TO_BOOST",
+      "pass": true,
+      "why": "",
+      "flags": [],
+      "notes": [],
+      "model": "groq/openai/gpt-oss-120b"
+    },
+    {
+      "id": "E18",
+      "group": "comparative_disclaimer",
+      "expected": "OK_TO_BOOST",
+      "got": "OK_TO_BOOST",
+      "pass": true,
+      "why": "",
+      "flags": [],
+      "notes": [],
+      "model": "groq/openai/gpt-oss-120b"
+    },
+    {
+      "id": "E19",
+      "group": "joke",
+      "expected": "NEEDS_EDIT | NEEDS_HUMAN",
+      "got": "NEEDS_EDIT",
+      "pass": true,
+      "why": "",
+      "flags": [
+        {
+          "type": "implied_result",
+          "source": "caption",
+          "quote": "this cream literally made me 12 again lol",
+          "section": "misleading_claims",
+          "by": "model"
+        }
+      ],
+      "notes": [
+        "The model thinks the flagged line is a joke. TikTok reviews claims literally, so it is still flagged; a person can override."
+      ],
+      "model": "groq/openai/gpt-oss-120b"
+    },
+    {
+      "id": "E20",
+      "group": "non_english",
+      "expected": "NEEDS_HUMAN",
+      "got": "NEEDS_HUMAN",
+      "pass": true,
+      "why": "",
+      "flags": [
+        {
+          "type": "non_english",
+          "source": "caption",
+          "quote": "mi rutina de noche con el sérum Dewly, mi piel se siente increíble #publicidad",
+          "section": "misleading_claims",
+          "by": "rules"
+        }
+      ],
+      "notes": [
+        "Not English. Sent to a person before any automated decision."
+      ],
+      "model": null
+    }
+  ]
+}

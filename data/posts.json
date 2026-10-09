@@ -1,0 +1,2004 @@
+[
+ {
+  "id": "dewly-01",
+  "brand": "dewly",
+  "handle": "kofi.tries",
+  "views": 199744,
+  "caption": "why this serum lives on my desk now #ad",
+  "transcript": "It layers well under makeup and doesn't pill, which is my main test.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-02",
+  "brand": "dewly",
+  "handle": "zoe.irl",
+  "views": 356834,
+  "caption": "the serum I reach for after the gym #ad",
+  "transcript": "If you've been curious, their fall sale is on, up to thirty percent off with my code.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-03",
+  "brand": "dewly",
+  "handle": "kofi.eats",
+  "views": 361710,
+  "caption": "honest week one thoughts on Dewly #ad",
+  "transcript": "It layers well under makeup and doesn't pill, which is my main test.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-04",
+  "brand": "dewly",
+  "handle": "theo.walks",
+  "views": 5187,
+  "caption": "dry winter skin check with Dewly #ad",
+  "transcript": "It's not magic, it's just a nice serum that my skin seems to like.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-05",
+  "brand": "dewly",
+  "handle": "nia.loves",
+  "views": 372846,
+  "caption": "my no-fuss routine before work #ad",
+  "transcript": "Two pumps, pat it in, done. It smells like nothing, which I love.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-06",
+  "brand": "dewly",
+  "handle": "maya.life",
+  "views": 79253,
+  "caption": "morning skincare with the Dewly barrier serum #ad",
+  "transcript": "My skin felt tight after the flight and this felt nice and calming going on.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [
+    "denoise"
+   ],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-07",
+  "brand": "dewly",
+  "handle": "leo.ugc",
+  "views": 275750,
+  "caption": "two weeks of Dewly #ad",
+  "transcript": "Left side is day one, right side is day fourteen. My dark spots faded so much.",
+  "onscreen": "BEFORE / AFTER",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "NEEDS_EDIT",
+  "revision": {
+   "transcript": "Two weeks in and I still like the texture, it's part of my routine now.",
+   "onscreen": ""
+  }
+ },
+ {
+  "id": "dewly-08",
+  "brand": "dewly",
+  "handle": "sam.irl",
+  "views": 87573,
+  "caption": "Dewly fall sale, code DEW30 for up to 30% off #ad",
+  "transcript": "I've been using it for about a week. The texture is my favorite part so far.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-09",
+  "brand": "dewly",
+  "handle": "ivy.daily",
+  "views": 311769,
+  "caption": "morning skincare with the Dewly barrier serum #ad",
+  "transcript": "I use it at night mostly, and it feels comfortable when I wake up.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-10",
+  "brand": "dewly",
+  "handle": "eli.tries",
+  "views": 203274,
+  "caption": "trying Dewly after a long flight, skin felt so dry #ad",
+  "transcript": "It's not magic, it's just a nice serum that my skin seems to like.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-11",
+  "brand": "dewly",
+  "handle": "maya.makes",
+  "views": 371611,
+  "caption": "my no-fuss routine before work #ad",
+  "transcript": "It layers well under makeup and doesn't pill, which is my main test.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-12",
+  "brand": "dewly",
+  "handle": "theo.loves",
+  "views": 361209,
+  "caption": "Dewly fall sale, code DEW30 for up to 30% off #ad",
+  "transcript": "It layers well under makeup and doesn't pill, which is my main test.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-13",
+  "brand": "dewly",
+  "handle": "maya.notes",
+  "views": 348546,
+  "caption": "dry winter skin check with Dewly #ad",
+  "transcript": "I use it at night mostly, and it feels comfortable when I wake up.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-14",
+  "brand": "dewly",
+  "handle": "leo.life",
+  "views": 309953,
+  "caption": "night routine #ad",
+  "transcript": "Honestly this serum cured my eczema. I don't even need my cream anymore.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "NEEDS_EDIT",
+  "revision": {
+   "transcript": "This serum feels calm on my skin at night, which I like."
+  }
+ },
+ {
+  "id": "dewly-15",
+  "brand": "dewly",
+  "handle": "priya.irl",
+  "views": 295066,
+  "caption": "the best serum on TikTok, period #ad",
+  "transcript": "I've tried so many and this is the one I keep buying.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "NEEDS_EDIT",
+  "revision": {
+   "caption": "my favorite serum lately #ad"
+  }
+ },
+ {
+  "id": "dewly-16",
+  "brand": "dewly",
+  "handle": "kai.eats",
+  "views": 97899,
+  "caption": "the serum I reach for after the gym #ad",
+  "transcript": "If you've been curious, their fall sale is on, up to thirty percent off with my code.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-17",
+  "brand": "dewly",
+  "handle": "priya.notes",
+  "views": 227510,
+  "caption": "skin update #ad",
+  "transcript": "My wrinkles disappeared in a week, I'm not even kidding.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "NEEDS_EDIT",
+  "revision": {
+   "transcript": "A week in and my skin feels soft in the mornings."
+  }
+ },
+ {
+  "id": "dewly-18",
+  "brand": "dewly",
+  "handle": "omar.loves",
+  "views": 297956,
+  "caption": "why this serum lives on my desk now #ad",
+  "transcript": "The bottle is small enough for my gym bag, so I actually use it.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-19",
+  "brand": "dewly",
+  "handle": "lena.tries",
+  "views": 173100,
+  "caption": "why this serum lives on my desk now #ad",
+  "transcript": "If you've been curious, their fall sale is on, up to thirty percent off with my code.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-20",
+  "brand": "dewly",
+  "handle": "rina.eats",
+  "views": 398192,
+  "caption": "results guaranteed or I'll eat my hat #ad",
+  "transcript": "This is the serum I use every morning.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "NEEDS_EDIT",
+  "revision": {
+   "caption": "the serum I use every morning #ad"
+  }
+ },
+ {
+  "id": "dewly-21",
+  "brand": "dewly",
+  "handle": "leo.loves",
+  "views": 352876,
+  "caption": "trying Dewly after a long flight, skin felt so dry #ad",
+  "transcript": "My skin felt tight after the flight and this felt nice and calming going on.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-22",
+  "brand": "dewly",
+  "handle": "nia.makes",
+  "views": 262086,
+  "caption": "my no-fuss routine before work #ad",
+  "transcript": "I keep it simple: cleanser, this serum, moisturizer.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-23",
+  "brand": "dewly",
+  "handle": "theo.walks",
+  "views": 226949,
+  "caption": "dry winter skin check with Dewly #ad",
+  "transcript": "My skin felt tight after the flight and this felt nice and calming going on.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-24",
+  "brand": "dewly",
+  "handle": "ana.life",
+  "views": 196828,
+  "caption": "grwm but make it 3 steps #dewly #ad",
+  "transcript": "I keep it simple: cleanser, this serum, moisturizer.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-25",
+  "brand": "dewly",
+  "handle": "rina.walks",
+  "views": 70440,
+  "caption": "Dewly in 15 seconds #ad",
+  "transcript": "This is Dewly, a light serum with ceramides.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [
+    "ai_voice_clone"
+   ],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "ADD_AI_LABEL",
+  "revision": {
+   "aiLabel": true
+  }
+ },
+ {
+  "id": "dewly-26",
+  "brand": "dewly",
+  "handle": "zoe.ugc",
+  "views": 228608,
+  "caption": "trying Dewly after a long flight, skin felt so dry #ad",
+  "transcript": "I've been using it for about a week. The texture is my favorite part so far.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-27",
+  "brand": "dewly",
+  "handle": "noah.tries",
+  "views": 148981,
+  "caption": "packing my travel skincare #ad",
+  "transcript": "I've been using it for about a week. The texture is my favorite part so far.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [
+    "color_correction"
+   ],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-28",
+  "brand": "dewly",
+  "handle": "ana.daily",
+  "views": 123534,
+  "caption": "a slow Sunday routine #ad",
+  "transcript": "I use it at night mostly, and it feels comfortable when I wake up.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-29",
+  "brand": "dewly",
+  "handle": "noah.irl",
+  "views": 293172,
+  "caption": "packing my travel skincare #ad",
+  "transcript": "If you've been curious, their fall sale is on, up to thirty percent off with my code.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-30",
+  "brand": "dewly",
+  "handle": "sam.irl",
+  "views": 267828,
+  "caption": "honest week one thoughts on Dewly #ad",
+  "transcript": "It's not magic, it's just a nice serum that my skin seems to like.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-31",
+  "brand": "dewly",
+  "handle": "priya.daily",
+  "views": 313152,
+  "caption": "a slow Sunday routine #ad",
+  "transcript": "I use it at night mostly, and it feels comfortable when I wake up.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [
+    "color_correction"
+   ],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-32",
+  "brand": "dewly",
+  "handle": "ben.life",
+  "views": 368007,
+  "caption": "Dewly fall sale, code DEW30 for up to 30% off #ad",
+  "transcript": "I keep it simple: cleanser, this serum, moisturizer.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-33",
+  "brand": "dewly",
+  "handle": "zoe.life",
+  "views": 14085,
+  "caption": "skincare shelf reset, Dewly made the cut #ad",
+  "transcript": "It layers well under makeup and doesn't pill, which is my main test.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [
+    "denoise"
+   ],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-34",
+  "brand": "dewly",
+  "handle": "ana.loves",
+  "views": 293614,
+  "caption": "morning skincare with the Dewly barrier serum #ad",
+  "transcript": "I use it at night mostly, and it feels comfortable when I wake up.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-35",
+  "brand": "dewly",
+  "handle": "kai.daily",
+  "views": 58384,
+  "caption": "grwm but make it 3 steps #dewly #ad",
+  "transcript": "I've been using it for about a week. The texture is my favorite part so far.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-36",
+  "brand": "dewly",
+  "handle": "jules.makes",
+  "views": 37938,
+  "caption": "Dewly 50% off with DEW30 this week only #ad",
+  "transcript": "Go grab it while the sale is on.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "NEEDS_EDIT",
+  "revision": {
+   "caption": "Dewly up to 30% off with DEW30 this week #ad"
+  }
+ },
+ {
+  "id": "dewly-37",
+  "brand": "dewly",
+  "handle": "maya.loves",
+  "views": 382299,
+  "caption": "meet our routine guide #ad",
+  "transcript": "Hi, I'm Ava. Here's how I layer Dewly.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [
+    "ai_generated_person"
+   ],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "ADD_AI_LABEL",
+  "revision": {
+   "aiLabel": true
+  }
+ },
+ {
+  "id": "dewly-38",
+  "brand": "dewly",
+  "handle": "rina.makes",
+  "views": 84887,
+  "caption": "the serum I reach for after the gym #ad",
+  "transcript": "I like that it's really light and doesn't feel sticky under sunscreen.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-39",
+  "brand": "dewly",
+  "handle": "zoe.irl",
+  "views": 186542,
+  "caption": "skincare shelf reset, Dewly made the cut #ad",
+  "transcript": "The bottle is small enough for my gym bag, so I actually use it.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "dewly-40",
+  "brand": "dewly",
+  "handle": "leo.walks",
+  "views": 273501,
+  "caption": "grwm but make it 3 steps #dewly #ad",
+  "transcript": "Two pumps, pat it in, done. It smells like nothing, which I love.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-01",
+  "brand": "pocketly",
+  "handle": "theo.eats",
+  "views": 289927,
+  "caption": "budgeting for a trip with Pocketly #ad",
+  "transcript": "Seeing my grocery bucket shrink makes me think twice about extra snacks.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-02",
+  "brand": "pocketly",
+  "handle": "leo.ugc",
+  "views": 239277,
+  "caption": "how I set up budget buckets with Pocketly #ad",
+  "transcript": "Round-ups move spare change into savings. It's small, but I like watching it add up.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-03",
+  "brand": "pocketly",
+  "handle": "ana.tries",
+  "views": 297463,
+  "caption": "student budget check-in #ad",
+  "transcript": "There is a monthly plan, so check the fee schedule on their site first.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-04",
+  "brand": "pocketly",
+  "handle": "ivy.makes",
+  "views": 22149,
+  "caption": "splitting my paycheck the lazy way #ad",
+  "transcript": "I mostly use it to see upcoming bills in one place.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-05",
+  "brand": "pocketly",
+  "handle": "marco.irl",
+  "views": 236456,
+  "caption": "budget tips with Max #ad",
+  "transcript": "Hey, I'm Max, and this is my bucket setup.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [
+    "ai_generated_person"
+   ],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "ADD_AI_LABEL",
+  "revision": {
+   "aiLabel": true
+  }
+ },
+ {
+  "id": "pocketly-06",
+  "brand": "pocketly",
+  "handle": "sam.irl",
+  "views": 252006,
+  "caption": "Pocketly round-ups, week two #ad",
+  "transcript": "The bill reminders pinged me two days before my phone bill, which helped.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-07",
+  "brand": "pocketly",
+  "handle": "marco.notes",
+  "views": 99791,
+  "caption": "budgeting for a trip with Pocketly #ad",
+  "transcript": "I mostly use it to see upcoming bills in one place.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-08",
+  "brand": "pocketly",
+  "handle": "nia.daily",
+  "views": 280275,
+  "caption": "payday routine in 30 seconds #ad",
+  "transcript": "I split every paycheck into rent, groceries and fun money so I can see what's left.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-09",
+  "brand": "pocketly",
+  "handle": "priya.tries",
+  "views": 267861,
+  "caption": "my bills calendar finally lives in one app #ad",
+  "transcript": "It's not a bank, it's a budgeting app that sits on top of my account.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-10",
+  "brand": "pocketly",
+  "handle": "ben.makes",
+  "views": 371787,
+  "caption": "how I set up budget buckets with Pocketly #ad",
+  "transcript": "I split every paycheck into rent, groceries and fun money so I can see what's left.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-11",
+  "brand": "pocketly",
+  "handle": "noah.notes",
+  "views": 173973,
+  "caption": "my bills calendar finally lives in one app #ad",
+  "transcript": "It's not a bank, it's a budgeting app that sits on top of my account.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [
+    "background_removal"
+   ],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-12",
+  "brand": "pocketly",
+  "handle": "kai.tries",
+  "views": 294852,
+  "caption": "Pocketly explained #ad",
+  "transcript": "Pocketly puts your bills and buckets in one place.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [
+    "ai_voice_clone"
+   ],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "ADD_AI_LABEL",
+  "revision": {
+   "aiLabel": true
+  }
+ },
+ {
+  "id": "pocketly-13",
+  "brand": "pocketly",
+  "handle": "nia.notes",
+  "views": 80104,
+  "caption": "my side income app #ad",
+  "transcript": "I made two thousand dollars last month just from round-ups.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "NEEDS_EDIT",
+  "revision": {
+   "transcript": "Round-ups move spare change into savings, and it adds up slowly."
+  }
+ },
+ {
+  "id": "pocketly-14",
+  "brand": "pocketly",
+  "handle": "eli.makes",
+  "views": 54096,
+  "caption": "trying Pocketly's savings goals #ad",
+  "transcript": "I split every paycheck into rent, groceries and fun money so I can see what's left.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-15",
+  "brand": "pocketly",
+  "handle": "nia.life",
+  "views": 26587,
+  "caption": "splitting my paycheck the lazy way #ad",
+  "transcript": "I set a goal for a weekend trip and the progress bar keeps me honest.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-16",
+  "brand": "pocketly",
+  "handle": "jules.irl",
+  "views": 380292,
+  "caption": "Pocketly gives you $500 instantly #ad",
+  "transcript": "Seriously, just download it.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "NEEDS_EDIT",
+  "revision": {
+   "caption": "Pocketly advances for eligible members, check limits #ad"
+  }
+ },
+ {
+  "id": "pocketly-17",
+  "brand": "pocketly",
+  "handle": "kai.life",
+  "views": 114815,
+  "caption": "budgeting for a trip with Pocketly #ad",
+  "transcript": "It's not a bank, it's a budgeting app that sits on top of my account.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-18",
+  "brand": "pocketly",
+  "handle": "rina.daily",
+  "views": 191935,
+  "caption": "how I set up budget buckets with Pocketly #ad",
+  "transcript": "I set a goal for a weekend trip and the progress bar keeps me honest.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-19",
+  "brand": "pocketly",
+  "handle": "ivy.makes",
+  "views": 133243,
+  "caption": "student budget check-in #ad",
+  "transcript": "I set a goal for a weekend trip and the progress bar keeps me honest.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-20",
+  "brand": "pocketly",
+  "handle": "dani.irl",
+  "views": 25991,
+  "caption": "the app that reminds me before rent is due #ad",
+  "transcript": "It's not a bank, it's a budgeting app that sits on top of my account.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-21",
+  "brand": "pocketly",
+  "handle": "maya.daily",
+  "views": 255739,
+  "caption": "my bills calendar finally lives in one app #ad",
+  "transcript": "I mostly use it to see upcoming bills in one place.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-22",
+  "brand": "pocketly",
+  "handle": "dani.notes",
+  "views": 295247,
+  "caption": "Pocketly is the number 1 money app for students #ad",
+  "transcript": "I use it for my bills.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "NEEDS_EDIT",
+  "revision": {
+   "caption": "the money app I use as a student #ad"
+  }
+ },
+ {
+  "id": "pocketly-23",
+  "brand": "pocketly",
+  "handle": "noah.tries",
+  "views": 159211,
+  "caption": "what my grocery bucket looks like this month #ad",
+  "transcript": "I mostly use it to see upcoming bills in one place.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-24",
+  "brand": "pocketly",
+  "handle": "marco.life",
+  "views": 312251,
+  "caption": "get money in 10 seconds with Pocketly #ad",
+  "transcript": "I needed a little cash before payday.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "NEEDS_EDIT",
+  "revision": {
+   "caption": "how I use Pocketly before payday #ad"
+  }
+ },
+ {
+  "id": "pocketly-25",
+  "brand": "pocketly",
+  "handle": "leo.tries",
+  "views": 245347,
+  "caption": "Pocketly giveaway, comment to win $1,000 #ad",
+  "transcript": "Comment below and I'll pick a winner Friday.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "NEEDS_EDIT",
+  "revision": {
+   "caption": "how I plan my month with Pocketly #ad",
+   "transcript": "Here's the bucket setup I use."
+  }
+ },
+ {
+  "id": "pocketly-26",
+  "brand": "pocketly",
+  "handle": "ben.makes",
+  "views": 30173,
+  "caption": "Pocketly round-ups, week two #ad",
+  "transcript": "I set a goal for a weekend trip and the progress bar keeps me honest.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-27",
+  "brand": "pocketly",
+  "handle": "eli.loves",
+  "views": 176464,
+  "caption": "the app that reminds me before rent is due #ad",
+  "transcript": "I split every paycheck into rent, groceries and fun money so I can see what's left.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-28",
+  "brand": "pocketly",
+  "handle": "noah.eats",
+  "views": 201777,
+  "caption": "before Pocketly vs after Pocketly #ad",
+  "transcript": "Before, I was in overdraft every month. After, I have three thousand in savings.",
+  "onscreen": "BEFORE / AFTER",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "NEEDS_EDIT",
+  "revision": {
+   "caption": "why I keep using Pocketly #ad",
+   "transcript": "Seeing my bills in one place helps me plan the month.",
+   "onscreen": ""
+  }
+ },
+ {
+  "id": "pocketly-29",
+  "brand": "pocketly",
+  "handle": "theo.daily",
+  "views": 35661,
+  "caption": "what my grocery bucket looks like this month #ad",
+  "transcript": "Seeing my grocery bucket shrink makes me think twice about extra snacks.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [
+    "background_removal"
+   ],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-30",
+  "brand": "pocketly",
+  "handle": "omar.eats",
+  "views": 84053,
+  "caption": "payday routine in 30 seconds #ad",
+  "transcript": "I set a goal for a weekend trip and the progress bar keeps me honest.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [
+    "background_removal"
+   ],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-31",
+  "brand": "pocketly",
+  "handle": "marco.makes",
+  "views": 24872,
+  "caption": "Pocketly round-ups, week two #ad",
+  "transcript": "I mostly use it to see upcoming bills in one place.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-32",
+  "brand": "pocketly",
+  "handle": "maya.notes",
+  "views": 351784,
+  "caption": "payday routine in 30 seconds #ad",
+  "transcript": "It's not a bank, it's a budgeting app that sits on top of my account.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-33",
+  "brand": "pocketly",
+  "handle": "maya.tries",
+  "views": 131289,
+  "caption": "splitting my paycheck the lazy way #ad",
+  "transcript": "I set a goal for a weekend trip and the progress bar keeps me honest.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-34",
+  "brand": "pocketly",
+  "handle": "priya.life",
+  "views": 322700,
+  "caption": "trying Pocketly's savings goals #ad",
+  "transcript": "The bill reminders pinged me two days before my phone bill, which helped.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-35",
+  "brand": "pocketly",
+  "handle": "maya.life",
+  "views": 86195,
+  "caption": "trying Pocketly's savings goals #ad",
+  "transcript": "There is a monthly plan, so check the fee schedule on their site first.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-36",
+  "brand": "pocketly",
+  "handle": "marco.walks",
+  "views": 17284,
+  "caption": "payday routine in 30 seconds #ad",
+  "transcript": "I mostly use it to see upcoming bills in one place.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-37",
+  "brand": "pocketly",
+  "handle": "rina.tries",
+  "views": 305546,
+  "caption": "the app that reminds me before rent is due #ad",
+  "transcript": "Seeing my grocery bucket shrink makes me think twice about extra snacks.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-38",
+  "brand": "pocketly",
+  "handle": "kofi.notes",
+  "views": 329395,
+  "caption": "how I set up budget buckets with Pocketly #ad",
+  "transcript": "There is a monthly plan, so check the fee schedule on their site first.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-39",
+  "brand": "pocketly",
+  "handle": "lena.walks",
+  "views": 123551,
+  "caption": "student budget check-in #ad",
+  "transcript": "There is a monthly plan, so check the fee schedule on their site first.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "pocketly-40",
+  "brand": "pocketly",
+  "handle": "sam.notes",
+  "views": 352013,
+  "caption": "what my grocery bucket looks like this month #ad",
+  "transcript": "I split every paycheck into rent, groceries and fun money so I can see what's left.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-01",
+  "brand": "loopstep",
+  "handle": "rina.notes",
+  "views": 277233,
+  "caption": "30 day glow up #ad",
+  "transcript": "Day one versus day thirty, look at my waist.",
+  "onscreen": "DAY 1 vs DAY 30",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "NEEDS_EDIT",
+  "revision": {
+   "transcript": "Thirty days of walks, and I like having a routine.",
+   "onscreen": ""
+  }
+ },
+ {
+  "id": "loopstep-02",
+  "brand": "loopstep",
+  "handle": "ivy.life",
+  "views": 126663,
+  "caption": "weekly goal check-in #ad",
+  "transcript": "I set a ten minute walk after lunch and the reminder got me out the door.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-03",
+  "brand": "loopstep",
+  "handle": "maya.tries",
+  "views": 209881,
+  "caption": "walking streak day 12 with Loopstep #ad",
+  "transcript": "The streak counter is silly but it works on me.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-04",
+  "brand": "loopstep",
+  "handle": "marco.loves",
+  "views": 276696,
+  "caption": "my lunch break walk routine #ad",
+  "transcript": "This week they have forty percent off the annual plan for new members.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-05",
+  "brand": "loopstep",
+  "handle": "maya.tries",
+  "views": 396380,
+  "caption": "evening walk reminder actually worked #ad",
+  "transcript": "The streak counter is silly but it works on me.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-06",
+  "brand": "loopstep",
+  "handle": "ben.loves",
+  "views": 230815,
+  "caption": "Loopstep annual plan is 40% off this week #ad",
+  "transcript": "On rainy days I walk laps around my apartment and it still counts.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-07",
+  "brand": "loopstep",
+  "handle": "kofi.loves",
+  "views": 230987,
+  "caption": "rainy day indoor steps #ad",
+  "transcript": "It's a simple app. Walk, log, see your streak.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-08",
+  "brand": "loopstep",
+  "handle": "priya.daily",
+  "views": 349133,
+  "caption": "weekly goal check-in #ad",
+  "transcript": "It's a simple app. Walk, log, see your streak.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-09",
+  "brand": "loopstep",
+  "handle": "zoe.life",
+  "views": 127109,
+  "caption": "walking streak day 12 with Loopstep #ad",
+  "transcript": "I like the weekly goal more than daily ones, it feels less stressful.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-10",
+  "brand": "loopstep",
+  "handle": "eli.life",
+  "views": 232395,
+  "caption": "my lunch break walk routine #ad",
+  "transcript": "It's a simple app. Walk, log, see your streak.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-11",
+  "brand": "loopstep",
+  "handle": "marco.makes",
+  "views": 100803,
+  "caption": "walking streak day 12 with Loopstep #ad",
+  "transcript": "There's a free trial, then it's yearly, and you can cancel in settings.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-12",
+  "brand": "loopstep",
+  "handle": "priya.walks",
+  "views": 22910,
+  "caption": "rainy day indoor steps #ad",
+  "transcript": "There's a free trial, then it's yearly, and you can cancel in settings.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-13",
+  "brand": "loopstep",
+  "handle": "ivy.tries",
+  "views": 340147,
+  "caption": "my favorite Loopstep feature #ad",
+  "transcript": "I like the weekly goal more than daily ones, it feels less stressful.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-14",
+  "brand": "loopstep",
+  "handle": "jules.eats",
+  "views": 249836,
+  "caption": "coach Rio says hi #ad",
+  "transcript": "I'm Rio, your walking coach in Loopstep.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [
+    "ai_generated_video"
+   ],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "ADD_AI_LABEL",
+  "revision": {
+   "aiLabel": true
+  }
+ },
+ {
+  "id": "loopstep-15",
+  "brand": "loopstep",
+  "handle": "priya.eats",
+  "views": 119977,
+  "caption": "my lunch break walk routine #ad",
+  "transcript": "I set a ten minute walk after lunch and the reminder got me out the door.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-16",
+  "brand": "loopstep",
+  "handle": "jules.eats",
+  "views": 176847,
+  "caption": "Loopstep annual plan is 40% off this week #ad",
+  "transcript": "On rainy days I walk laps around my apartment and it still counts.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-17",
+  "brand": "loopstep",
+  "handle": "marco.ugc",
+  "views": 221443,
+  "caption": "lose 10 pounds in your first week with Loopstep #ad",
+  "transcript": "Walk with me.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "NEEDS_EDIT",
+  "revision": {
+   "caption": "first week of walking with Loopstep #ad"
+  }
+ },
+ {
+  "id": "loopstep-18",
+  "brand": "loopstep",
+  "handle": "priya.loves",
+  "views": 363134,
+  "caption": "my lunch break walk routine #ad",
+  "transcript": "It's a simple app. Walk, log, see your streak.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [
+    "color_correction"
+   ],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-19",
+  "brand": "loopstep",
+  "handle": "nia.walks",
+  "views": 336979,
+  "caption": "trying the Loopstep 7 day free trial #ad",
+  "transcript": "It's a simple app. Walk, log, see your streak.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-20",
+  "brand": "loopstep",
+  "handle": "leo.loves",
+  "views": 165804,
+  "caption": "small habits that stuck this month #ad",
+  "transcript": "It's a simple app. Walk, log, see your streak.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-21",
+  "brand": "loopstep",
+  "handle": "marco.daily",
+  "views": 118595,
+  "caption": "trying the Loopstep 7 day free trial #ad",
+  "transcript": "This week they have forty percent off the annual plan for new members.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-22",
+  "brand": "loopstep",
+  "handle": "maya.notes",
+  "views": 48653,
+  "caption": "walking streak day 12 with Loopstep #ad",
+  "transcript": "The streak counter is silly but it works on me.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-23",
+  "brand": "loopstep",
+  "handle": "kofi.loves",
+  "views": 92588,
+  "caption": "the #1 fitness app on TikTok #ad",
+  "transcript": "Everyone's using it for a reason.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "NEEDS_EDIT",
+  "revision": {
+   "caption": "the fitness app I actually open #ad"
+  }
+ },
+ {
+  "id": "loopstep-24",
+  "brand": "loopstep",
+  "handle": "sam.makes",
+  "views": 308094,
+  "caption": "how I got back into walking #ad",
+  "transcript": "The streak counter is silly but it works on me.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-25",
+  "brand": "loopstep",
+  "handle": "lena.loves",
+  "views": 306279,
+  "caption": "my back pain is gone #ad",
+  "transcript": "Walking with Loopstep fixed my back pain completely.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "NEEDS_EDIT",
+  "revision": {
+   "caption": "walks that help me reset #ad",
+   "transcript": "A short walk after lunch helps me feel less stiff."
+  }
+ },
+ {
+  "id": "loopstep-26",
+  "brand": "loopstep",
+  "handle": "maya.notes",
+  "views": 368509,
+  "caption": "evening walk reminder actually worked #ad",
+  "transcript": "There's a free trial, then it's yearly, and you can cancel in settings.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-27",
+  "brand": "loopstep",
+  "handle": "ana.life",
+  "views": 33039,
+  "caption": "how I got back into walking #ad",
+  "transcript": "On rainy days I walk laps around my apartment and it still counts.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-28",
+  "brand": "loopstep",
+  "handle": "rina.daily",
+  "views": 397276,
+  "caption": "trying the Loopstep 7 day free trial #ad",
+  "transcript": "It's a simple app. Walk, log, see your streak.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-29",
+  "brand": "loopstep",
+  "handle": "dani.irl",
+  "views": 213361,
+  "caption": "evening walk reminder actually worked #ad",
+  "transcript": "It's a simple app. Walk, log, see your streak.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-30",
+  "brand": "loopstep",
+  "handle": "ben.tries",
+  "views": 320297,
+  "caption": "Loopstep deal #ad",
+  "transcript": "They're doing 70% off the annual plan right now.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "NEEDS_EDIT",
+  "revision": {
+   "transcript": "They're doing 40% off the annual plan for new members right now."
+  }
+ },
+ {
+  "id": "loopstep-31",
+  "brand": "loopstep",
+  "handle": "maya.makes",
+  "views": 250700,
+  "caption": "my favorite Loopstep feature #ad",
+  "transcript": "I set a ten minute walk after lunch and the reminder got me out the door.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-32",
+  "brand": "loopstep",
+  "handle": "eli.daily",
+  "views": 119009,
+  "caption": "how I got back into walking #ad",
+  "transcript": "It's a simple app. Walk, log, see your streak.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-33",
+  "brand": "loopstep",
+  "handle": "priya.tries",
+  "views": 274307,
+  "caption": "rainy day indoor steps #ad",
+  "transcript": "On rainy days I walk laps around my apartment and it still counts.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-34",
+  "brand": "loopstep",
+  "handle": "marco.makes",
+  "views": 376154,
+  "caption": "guaranteed results in 7 days #ad",
+  "transcript": "Just walk every day.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "NEEDS_EDIT",
+  "revision": {
+   "caption": "7 days of daily walks #ad"
+  }
+ },
+ {
+  "id": "loopstep-35",
+  "brand": "loopstep",
+  "handle": "leo.loves",
+  "views": 292669,
+  "caption": "weekly goal check-in #ad",
+  "transcript": "It's a simple app. Walk, log, see your streak.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-36",
+  "brand": "loopstep",
+  "handle": "rina.notes",
+  "views": 67838,
+  "caption": "dance break walk #ad",
+  "transcript": "Walking to the beat with Loopstep.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [
+    "ai_face_swap"
+   ],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "ADD_AI_LABEL",
+  "revision": {
+   "aiLabel": true
+  }
+ },
+ {
+  "id": "loopstep-37",
+  "brand": "loopstep",
+  "handle": "lena.loves",
+  "views": 172440,
+  "caption": "small habits that stuck this month #ad",
+  "transcript": "This week they have forty percent off the annual plan for new members.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-38",
+  "brand": "loopstep",
+  "handle": "dani.life",
+  "views": 183128,
+  "caption": "small habits that stuck this month #ad",
+  "transcript": "On rainy days I walk laps around my apartment and it still counts.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-39",
+  "brand": "loopstep",
+  "handle": "ivy.loves",
+  "views": 44844,
+  "caption": "Loopstep annual plan is 40% off this week #ad",
+  "transcript": "This week they have forty percent off the annual plan for new members.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ },
+ {
+  "id": "loopstep-40",
+  "brand": "loopstep",
+  "handle": "rina.makes",
+  "views": 339154,
+  "caption": "my favorite Loopstep feature #ad",
+  "transcript": "It's a simple app. Walk, log, see your streak.",
+  "onscreen": "",
+  "meta": {
+   "aiUse": [],
+   "aiLabel": false,
+   "disclosureToggle": true
+  },
+  "intended": "OK_TO_BOOST",
+  "revision": null
+ }
+]

@@ -1,0 +1,1278 @@
+{
+ "dewly-01": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 1341
+ },
+ "dewly-02": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 1337
+ },
+ "dewly-03": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 5344
+ },
+ "dewly-04": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3149
+ },
+ "dewly-05": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3051
+ },
+ "dewly-06": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3878
+ },
+ "dewly-07": {
+  "decision": "NEEDS_EDIT",
+  "flags": [
+   {
+    "type": "before_after",
+    "source": "onscreen",
+    "quote": "BEFORE / AFTER",
+    "sectionId": "before_after",
+    "reason": "Shows a before‑after comparison of product effect without any disclaimer, which is prohibited.",
+    "by": "model"
+   },
+   {
+    "type": "implied_result",
+    "source": "transcript",
+    "quote": "My dark spots faded so much",
+    "sectionId": "misleading_claims",
+    "reason": "Implies a specific product outcome (dark‑spot fading) as fact, which is a disallowed result claim.",
+    "by": "model"
+   }
+  ],
+  "creatorNote": "Hi @leo.ugc, thanks for the Dewly post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the on-screen text you say \"BEFORE / AFTER\". Paid ads can't show before-and-after results. Could you cut the comparison and keep the routine part?\n- In the voice-over you say \"My dark spots faded so much\". This reads as a promised result. Could you say how it felt for you, without stating the outcome as a fact?\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3837
+ },
+ "dewly-08": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 10065
+ },
+ "dewly-09": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 5231
+ },
+ "dewly-10": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3545
+ },
+ "dewly-11": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 2382
+ },
+ "dewly-12": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 5906
+ },
+ "dewly-13": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3973
+ },
+ "dewly-14": {
+  "decision": "NEEDS_EDIT",
+  "flags": [
+   {
+    "type": "absolute_claim",
+    "source": "transcript",
+    "quote": "Honestly this serum cured my eczema.",
+    "sectionId": "misleading_claims",
+    "reason": "Absolute term: cure claim.",
+    "by": "rules"
+   },
+   {
+    "type": "implied_result",
+    "source": "transcript",
+    "quote": "cured my eczema",
+    "sectionId": "misleading_claims",
+    "reason": "Claims the serum cured eczema, a medical condition, which is an implied result not allowed.",
+    "by": "model"
+   },
+   {
+    "type": "implied_result",
+    "source": "transcript",
+    "quote": "don't even need my cream anymore",
+    "sectionId": "misleading_claims",
+    "reason": "Implies the serum replaces other skincare products, presenting an unsubstantiated product effect claim.",
+    "by": "model"
+   }
+  ],
+  "creatorNote": "Hi @leo.life, thanks for the Dewly post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the voice-over you say \"Honestly this serum cured my eczema.\". TikTok ads can't use absolute terms like \"#1\", \"guaranteed\" or a result in seconds. Could you describe your own experience instead?\n- In the voice-over you say \"cured my eczema\". This reads as a promised result. Could you say how it felt for you, without stating the outcome as a fact?\n- In the voice-over you say \"don't even need my cream anymore\". This reads as a promised result. Could you say how it felt for you, without stating the outcome as a fact?\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3855
+ },
+ "dewly-15": {
+  "decision": "NEEDS_EDIT",
+  "flags": [
+   {
+    "type": "absolute_claim",
+    "source": "caption",
+    "quote": "the best serum on TikTok, period #ad",
+    "sectionId": "misleading_claims",
+    "reason": "Absolute term: superlative vs all brands.",
+    "by": "rules"
+   }
+  ],
+  "creatorNote": "Hi @priya.irl, thanks for the Dewly post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the caption you say \"the best serum on TikTok, period #ad\". TikTok ads can't use absolute terms like \"#1\", \"guaranteed\" or a result in seconds. Could you describe your own experience instead?\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 11125
+ },
+ "dewly-16": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 10499
+ },
+ "dewly-17": {
+  "decision": "NEEDS_EDIT",
+  "flags": [
+   {
+    "type": "implied_result",
+    "source": "transcript",
+    "quote": "My wrinkles disappeared in a week, I'm not even kidding",
+    "sectionId": "misleading_claims",
+    "reason": "The creator states a specific product outcome (wrinkles disappearing) within a week, which is a prohibited implied result claim.",
+    "by": "model"
+   }
+  ],
+  "creatorNote": "Hi @priya.notes, thanks for the Dewly post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the voice-over you say \"My wrinkles disappeared in a week, I'm not even kidding\". This reads as a promised result. Could you say how it felt for you, without stating the outcome as a fact?\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4108
+ },
+ "dewly-18": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 5966
+ },
+ "dewly-19": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 1512
+ },
+ "dewly-20": {
+  "decision": "NEEDS_EDIT",
+  "flags": [
+   {
+    "type": "absolute_claim",
+    "source": "caption",
+    "quote": "results guaranteed or I'll eat my hat #ad",
+    "sectionId": "misleading_claims",
+    "reason": "Absolute term: guaranteed result.",
+    "by": "rules"
+   }
+  ],
+  "creatorNote": "Hi @rina.eats, thanks for the Dewly post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the caption you say \"results guaranteed or I'll eat my hat #ad\". TikTok ads can't use absolute terms like \"#1\", \"guaranteed\" or a result in seconds. Could you describe your own experience instead?\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [
+   "The model thinks the flagged line is a joke. TikTok reviews claims literally, so it is still flagged; a person can override."
+  ],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 5061
+ },
+ "dewly-21": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3263
+ },
+ "dewly-22": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3873
+ },
+ "dewly-23": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 8049
+ },
+ "dewly-24": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 2246
+ },
+ "dewly-25": {
+  "decision": "ADD_AI_LABEL",
+  "flags": [
+   {
+    "type": "unlabeled_ai",
+    "source": "metadata",
+    "quote": "aiUse: ai_voice_clone; aiLabel: off",
+    "sectionId": "aigc",
+    "reason": "Declared ai voice clone counts as significant AI use, and there is no AIGC label or disclaimer.",
+    "by": "rules"
+   }
+  ],
+  "creatorNote": "Hi @rina.walks, thanks for the Dewly post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the post settings: Please switch on TikTok's AI-generated content label, or add a clear \"AI-generated\" line to the caption.\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 6640
+ },
+ "dewly-26": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3862
+ },
+ "dewly-27": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 1938
+ },
+ "dewly-28": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3922
+ },
+ "dewly-29": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4529
+ },
+ "dewly-30": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 2155
+ },
+ "dewly-31": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 5067
+ },
+ "dewly-32": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 7892
+ },
+ "dewly-33": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 2359
+ },
+ "dewly-34": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3059
+ },
+ "dewly-35": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3026
+ },
+ "dewly-36": {
+  "decision": "NEEDS_EDIT",
+  "flags": [
+   {
+    "type": "promo_mismatch",
+    "source": "caption",
+    "quote": "Dewly 50% off with DEW30 this week only #ad",
+    "sectionId": "inconsistent_info",
+    "reason": "Ad says 50%, landing page says up to 30%.",
+    "by": "rules"
+   },
+   {
+    "type": "promo_no_terms",
+    "source": "caption",
+    "quote": "this week only",
+    "sectionId": "inconsistent_info",
+    "reason": "The time-limited offer mentioned in the ad is not reflected in the landing page terms.",
+    "by": "model"
+   }
+  ],
+  "creatorNote": "Hi @jules.makes, thanks for the Dewly post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the caption you say \"Dewly 50% off with DEW30 this week only #ad\". The landing page says up to 30% off. Could you match that wording?\n- In the caption you say \"this week only\". The landing page doesn't show terms for this offer. Could you remove it or point to where the terms live?\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4505
+ },
+ "dewly-37": {
+  "decision": "ADD_AI_LABEL",
+  "flags": [
+   {
+    "type": "unlabeled_ai",
+    "source": "metadata",
+    "quote": "aiUse: ai_generated_person; aiLabel: off",
+    "sectionId": "aigc",
+    "reason": "Declared ai generated person counts as significant AI use, and there is no AIGC label or disclaimer.",
+    "by": "rules"
+   }
+  ],
+  "creatorNote": "Hi @maya.loves, thanks for the Dewly post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the post settings: Please switch on TikTok's AI-generated content label, or add a clear \"AI-generated\" line to the caption.\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 5085
+ },
+ "dewly-38": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 2794
+ },
+ "dewly-39": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 1969
+ },
+ "dewly-40": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3719
+ },
+ "pocketly-01": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 2884
+ },
+ "pocketly-02": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3235
+ },
+ "pocketly-03": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4297
+ },
+ "pocketly-04": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 7196
+ },
+ "pocketly-05": {
+  "decision": "ADD_AI_LABEL",
+  "flags": [
+   {
+    "type": "unlabeled_ai",
+    "source": "metadata",
+    "quote": "aiUse: ai_generated_person; aiLabel: off",
+    "sectionId": "aigc",
+    "reason": "Declared ai generated person counts as significant AI use, and there is no AIGC label or disclaimer.",
+    "by": "rules"
+   }
+  ],
+  "creatorNote": "Hi @marco.irl, thanks for the Pocketly post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the post settings: Please switch on TikTok's AI-generated content label, or add a clear \"AI-generated\" line to the caption.\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4120
+ },
+ "pocketly-06": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 1875
+ },
+ "pocketly-07": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 2999
+ },
+ "pocketly-08": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 5353
+ },
+ "pocketly-09": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3973
+ },
+ "pocketly-10": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 2579
+ },
+ "pocketly-11": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3722
+ },
+ "pocketly-12": {
+  "decision": "ADD_AI_LABEL",
+  "flags": [
+   {
+    "type": "unlabeled_ai",
+    "source": "metadata",
+    "quote": "aiUse: ai_voice_clone; aiLabel: off",
+    "sectionId": "aigc",
+    "reason": "Declared ai voice clone counts as significant AI use, and there is no AIGC label or disclaimer.",
+    "by": "rules"
+   }
+  ],
+  "creatorNote": "Hi @kai.tries, thanks for the Pocketly post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the post settings: Please switch on TikTok's AI-generated content label, or add a clear \"AI-generated\" line to the caption.\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 7164
+ },
+ "pocketly-13": {
+  "decision": "NEEDS_EDIT",
+  "flags": [
+   {
+    "type": "implied_result",
+    "source": "transcript",
+    "quote": "I made two thousand dollars last month just from round-ups",
+    "sectionId": "misleading_claims",
+    "reason": "The creator states a specific earnings amount as a fact, which is an implied result claim about the product's effect.",
+    "by": "model"
+   }
+  ],
+  "creatorNote": "Hi @nia.notes, thanks for the Pocketly post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the voice-over you say \"I made two thousand dollars last month just from round-ups\". This reads as a promised result. Could you say how it felt for you, without stating the outcome as a fact?\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4336
+ },
+ "pocketly-14": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 5067
+ },
+ "pocketly-15": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4156
+ },
+ "pocketly-16": {
+  "decision": "NEEDS_EDIT",
+  "flags": [
+   {
+    "type": "absolute_claim",
+    "source": "caption",
+    "quote": "Pocketly gives you $500 instantly #ad",
+    "sectionId": "misleading_claims",
+    "reason": "Absolute term: result promised in no time.",
+    "by": "rules"
+   },
+   {
+    "type": "promo_mismatch",
+    "source": "caption",
+    "quote": "Pocketly gives you $500 instantly",
+    "sectionId": "inconsistent_info",
+    "reason": "Offer in the ad differs from the landing page, which states cash advance up to $250",
+    "by": "model"
+   }
+  ],
+  "creatorNote": "Hi @jules.irl, thanks for the Pocketly post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the caption you say \"Pocketly gives you $500 instantly #ad\". TikTok ads can't use absolute terms like \"#1\", \"guaranteed\" or a result in seconds. Could you describe your own experience instead?\n- In the caption you say \"Pocketly gives you $500 instantly\". The landing page doesn't show this offer. Could you remove it?\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 1493
+ },
+ "pocketly-17": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 9584
+ },
+ "pocketly-18": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 2835
+ },
+ "pocketly-19": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 8096
+ },
+ "pocketly-20": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 2402
+ },
+ "pocketly-21": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 2662
+ },
+ "pocketly-22": {
+  "decision": "NEEDS_EDIT",
+  "flags": [
+   {
+    "type": "absolute_claim",
+    "source": "caption",
+    "quote": "Pocketly is the number 1 money app for students #ad",
+    "sectionId": "misleading_claims",
+    "reason": "Absolute term: ranking claim (#1 / number one).",
+    "by": "rules"
+   }
+  ],
+  "creatorNote": "Hi @dani.notes, thanks for the Pocketly post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the caption you say \"Pocketly is the number 1 money app for students #ad\". TikTok ads can't use absolute terms like \"#1\", \"guaranteed\" or a result in seconds. Could you describe your own experience instead?\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4174
+ },
+ "pocketly-23": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3918
+ },
+ "pocketly-24": {
+  "decision": "NEEDS_EDIT",
+  "flags": [
+   {
+    "type": "absolute_claim",
+    "source": "caption",
+    "quote": "get money in 10 seconds with Pocketly #ad",
+    "sectionId": "misleading_claims",
+    "reason": "Absolute term: result promised within seconds or minutes.",
+    "by": "rules"
+   },
+   {
+    "type": "promo_mismatch",
+    "source": "caption",
+    "quote": "get money in 10 seconds",
+    "sectionId": "inconsistent_info",
+    "reason": "The ad promises cash in 10 seconds, but the landing page states transfers take 1‑3 business days or instant transfers require a fee, creating a mismatch.",
+    "by": "model"
+   }
+  ],
+  "creatorNote": "Hi @marco.life, thanks for the Pocketly post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the caption you say \"get money in 10 seconds with Pocketly #ad\". TikTok ads can't use absolute terms like \"#1\", \"guaranteed\" or a result in seconds. Could you describe your own experience instead?\n- In the caption you say \"get money in 10 seconds\". The landing page doesn't show this offer. Could you remove it?\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3618
+ },
+ "pocketly-25": {
+  "decision": "NEEDS_EDIT",
+  "flags": [
+   {
+    "type": "promo_no_terms",
+    "source": "caption",
+    "quote": "Pocketly giveaway, comment to win $1,000 #ad",
+    "sectionId": "inconsistent_info",
+    "reason": "Promotion mentioned without any terms or conditions on the landing page.",
+    "by": "model"
+   }
+  ],
+  "creatorNote": "Hi @leo.tries, thanks for the Pocketly post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the caption you say \"Pocketly giveaway, comment to win $1,000 #ad\". The landing page doesn't show terms for this offer. Could you remove it or point to where the terms live?\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 5154
+ },
+ "pocketly-26": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 11888
+ },
+ "pocketly-27": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 930
+ },
+ "pocketly-28": {
+  "decision": "NEEDS_EDIT",
+  "flags": [
+   {
+    "type": "implied_result",
+    "source": "transcript",
+    "quote": "After, I have three thousand in savings",
+    "sectionId": "misleading_claims",
+    "reason": "Implies a specific financial outcome from using Pocketly, which is a prohibited implied result claim.",
+    "by": "model"
+   },
+   {
+    "type": "before_after",
+    "source": "onscreen",
+    "quote": "BEFORE / AFTER",
+    "sectionId": "before_after",
+    "reason": "Shows a before‑and‑after product effect comparison without any disclaimer or supporting evidence.",
+    "by": "model"
+   }
+  ],
+  "creatorNote": "Hi @noah.eats, thanks for the Pocketly post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the voice-over you say \"After, I have three thousand in savings\". This reads as a promised result. Could you say how it felt for you, without stating the outcome as a fact?\n- In the on-screen text you say \"BEFORE / AFTER\". Paid ads can't show before-and-after results. Could you cut the comparison and keep the routine part?\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 1543
+ },
+ "pocketly-29": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 768
+ },
+ "pocketly-30": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 2369
+ },
+ "pocketly-31": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 2902
+ },
+ "pocketly-32": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3356
+ },
+ "pocketly-33": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4326
+ },
+ "pocketly-34": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3473
+ },
+ "pocketly-35": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 1846
+ },
+ "pocketly-36": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4265
+ },
+ "pocketly-37": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 8520
+ },
+ "pocketly-38": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 1121
+ },
+ "pocketly-39": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4588
+ },
+ "pocketly-40": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4238
+ },
+ "loopstep-01": {
+  "decision": "NEEDS_EDIT",
+  "flags": [
+   {
+    "type": "absolute_claim",
+    "source": "caption",
+    "quote": "30 day glow up",
+    "sectionId": "misleading_claims",
+    "reason": "Uses an absolute term about product effect within a time frame, which is prohibited.",
+    "by": "model"
+   },
+   {
+    "type": "before_after",
+    "source": "transcript",
+    "quote": "Day one versus day thirty, look at my waist",
+    "sectionId": "before_after",
+    "reason": "Shows a before-and-after comparison of product effect without disclaimer.",
+    "by": "model"
+   },
+   {
+    "type": "before_after",
+    "source": "onscreen",
+    "quote": "DAY 1 vs DAY 30",
+    "sectionId": "before_after",
+    "reason": "Displays a before-and-after visual comparison of product effect without disclaimer.",
+    "by": "model"
+   }
+  ],
+  "creatorNote": "Hi @rina.notes, thanks for the Loopstep post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the caption you say \"30 day glow up\". TikTok ads can't use absolute terms like \"#1\", \"guaranteed\" or a result in seconds. Could you describe your own experience instead?\n- In the voice-over you say \"Day one versus day thirty, look at my waist\". Paid ads can't show before-and-after results. Could you cut the comparison and keep the routine part?\n- In the on-screen text you say \"DAY 1 vs DAY 30\". Paid ads can't show before-and-after results. Could you cut the comparison and keep the routine part?\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4302
+ },
+ "loopstep-02": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 5050
+ },
+ "loopstep-03": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4101
+ },
+ "loopstep-04": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3117
+ },
+ "loopstep-05": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4326
+ },
+ "loopstep-06": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3084
+ },
+ "loopstep-07": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4470
+ },
+ "loopstep-08": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 2923
+ },
+ "loopstep-09": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 1036
+ },
+ "loopstep-10": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 5147
+ },
+ "loopstep-11": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3503
+ },
+ "loopstep-12": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 5408
+ },
+ "loopstep-13": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 1968
+ },
+ "loopstep-14": {
+  "decision": "ADD_AI_LABEL",
+  "flags": [
+   {
+    "type": "unlabeled_ai",
+    "source": "metadata",
+    "quote": "aiUse: ai_generated_video; aiLabel: off",
+    "sectionId": "aigc",
+    "reason": "Declared ai generated video counts as significant AI use, and there is no AIGC label or disclaimer.",
+    "by": "rules"
+   }
+  ],
+  "creatorNote": "Hi @jules.eats, thanks for the Loopstep post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the post settings: Please switch on TikTok's AI-generated content label, or add a clear \"AI-generated\" line to the caption.\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 6917
+ },
+ "loopstep-15": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 1789
+ },
+ "loopstep-16": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4542
+ },
+ "loopstep-17": {
+  "decision": "NEEDS_EDIT",
+  "flags": [
+   {
+    "type": "implied_result",
+    "source": "caption",
+    "quote": "lose 10 pounds in your first week",
+    "sectionId": "misleading_claims",
+    "reason": "Claims a specific weight‑loss result within a week, which is a prohibited implied result under TikTok ad policy",
+    "by": "model"
+   }
+  ],
+  "creatorNote": "Hi @marco.ugc, thanks for the Loopstep post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the caption you say \"lose 10 pounds in your first week\". This reads as a promised result. Could you say how it felt for you, without stating the outcome as a fact?\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 2220
+ },
+ "loopstep-18": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3390
+ },
+ "loopstep-19": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4209
+ },
+ "loopstep-20": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4053
+ },
+ "loopstep-21": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 1693
+ },
+ "loopstep-22": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 6417
+ },
+ "loopstep-23": {
+  "decision": "NEEDS_EDIT",
+  "flags": [
+   {
+    "type": "absolute_claim",
+    "source": "caption",
+    "quote": "the #1 fitness app on TikTok #ad",
+    "sectionId": "misleading_claims",
+    "reason": "Absolute term: ranking claim (#1 / number one).",
+    "by": "rules"
+   }
+  ],
+  "creatorNote": "Hi @kofi.loves, thanks for the Loopstep post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the caption you say \"the #1 fitness app on TikTok #ad\". TikTok ads can't use absolute terms like \"#1\", \"guaranteed\" or a result in seconds. Could you describe your own experience instead?\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 1819
+ },
+ "loopstep-24": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4451
+ },
+ "loopstep-25": {
+  "decision": "NEEDS_EDIT",
+  "flags": [
+   {
+    "type": "implied_result",
+    "source": "caption",
+    "quote": "my back pain is gone",
+    "sectionId": "misleading_claims",
+    "reason": "Implied product cures back pain, which is a prohibited result claim.",
+    "by": "model"
+   },
+   {
+    "type": "implied_result",
+    "source": "transcript",
+    "quote": "fixed my back pain completely",
+    "sectionId": "misleading_claims",
+    "reason": "Implied product cures back pain, which is a prohibited result claim.",
+    "by": "model"
+   }
+  ],
+  "creatorNote": "Hi @lena.loves, thanks for the Loopstep post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the caption you say \"my back pain is gone\". This reads as a promised result. Could you say how it felt for you, without stating the outcome as a fact?\n- In the voice-over you say \"fixed my back pain completely\". This reads as a promised result. Could you say how it felt for you, without stating the outcome as a fact?\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4500
+ },
+ "loopstep-26": {
+  "decision": "NEEDS_EDIT",
+  "flags": [
+   {
+    "type": "implied_result",
+    "source": "caption",
+    "quote": "evening walk reminder actually worked",
+    "sectionId": "misleading_claims",
+    "reason": "Creator implies the product delivers a result (reminder works) without supporting evidence, which is a prohibited implied result claim.",
+    "by": "model"
+   }
+  ],
+  "creatorNote": "Hi @maya.notes, thanks for the Loopstep post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the caption you say \"evening walk reminder actually worked\". This reads as a promised result. Could you say how it felt for you, without stating the outcome as a fact?\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4981
+ },
+ "loopstep-27": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 5163
+ },
+ "loopstep-28": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3094
+ },
+ "loopstep-29": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4667
+ },
+ "loopstep-30": {
+  "decision": "NEEDS_EDIT",
+  "flags": [
+   {
+    "type": "promo_mismatch",
+    "source": "transcript",
+    "quote": "They're doing 70% off the annual plan right now.",
+    "sectionId": "inconsistent_info",
+    "reason": "Ad says 70%, landing page says up to 40%.",
+    "by": "rules"
+   }
+  ],
+  "creatorNote": "Hi @ben.tries, thanks for the Loopstep post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the voice-over you say \"They're doing 70% off the annual plan right now.\". The landing page says up to 40% off. Could you match that wording?\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4018
+ },
+ "loopstep-31": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 2920
+ },
+ "loopstep-32": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 1865
+ },
+ "loopstep-33": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 5344
+ },
+ "loopstep-34": {
+  "decision": "NEEDS_EDIT",
+  "flags": [
+   {
+    "type": "absolute_claim",
+    "source": "caption",
+    "quote": "guaranteed results in 7 days #ad",
+    "sectionId": "misleading_claims",
+    "reason": "Absolute term: guaranteed result.",
+    "by": "rules"
+   }
+  ],
+  "creatorNote": "Hi @marco.makes, thanks for the Loopstep post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the caption you say \"guaranteed results in 7 days #ad\". TikTok ads can't use absolute terms like \"#1\", \"guaranteed\" or a result in seconds. Could you describe your own experience instead?\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 2366
+ },
+ "loopstep-35": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3953
+ },
+ "loopstep-36": {
+  "decision": "ADD_AI_LABEL",
+  "flags": [
+   {
+    "type": "unlabeled_ai",
+    "source": "metadata",
+    "quote": "aiUse: ai_face_swap; aiLabel: off",
+    "sectionId": "aigc",
+    "reason": "Declared ai face swap counts as significant AI use, and there is no AIGC label or disclaimer.",
+    "by": "rules"
+   }
+  ],
+  "creatorNote": "Hi @rina.notes, thanks for the Loopstep post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the post settings: Please switch on TikTok's AI-generated content label, or add a clear \"AI-generated\" line to the caption.\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 2053
+ },
+ "loopstep-37": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4126
+ },
+ "loopstep-38": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4016
+ },
+ "loopstep-39": {
+  "decision": "NEEDS_EDIT",
+  "flags": [
+   {
+    "type": "promo_no_terms",
+    "source": "caption",
+    "quote": "Loopstep annual plan is 40% off this week",
+    "sectionId": "inconsistent_info",
+    "reason": "Promotion mentions a discount but does not include the required terms or disclaimer, which are only present on the landing page",
+    "by": "model"
+   }
+  ],
+  "creatorNote": "Hi @ivy.loves, thanks for the Loopstep post, it's doing well and we'd like to run it as a paid ad on TikTok.\nBefore we can, TikTok's ad policy needs a small change:\n- In the caption you say \"Loopstep annual plan is 40% off this week\". The landing page doesn't show terms for this offer. Could you remove it or point to where the terms live?\nOnce it's updated we'll boost it. Thanks!",
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 4439
+ },
+ "loopstep-40": {
+  "decision": "OK_TO_BOOST",
+  "flags": [],
+  "creatorNote": null,
+  "notes": [],
+  "model": "groq/openai/gpt-oss-120b",
+  "ms": 3028
+ }
+}

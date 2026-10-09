@@ -6,3 +6,5 @@ node_modules
 .pglite
 .vercel
 /tmp
+!.env.example
+tsconfig.tsbuildinfo
