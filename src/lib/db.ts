@@ -10,7 +10,10 @@ async function connect(): Promise<Q> {
   const url = process.env.DATABASE_URL;
   if (url) {
     const { Pool } = await import("pg");
-    const pool = new Pool({ connectionString: url, ssl: url.includes("localhost") ? undefined : { rejectUnauthorized: false }, max: 3 });
+    // Internal hostnames (no dot, e.g. Render's private network) and localhost connect without TLS.
+    const host = new URL(url).hostname;
+    const noTls = host === "localhost" || !host.includes(".") || url.includes("sslmode=disable");
+    const pool = new Pool({ connectionString: url, ssl: noTls ? undefined : { rejectUnauthorized: false }, max: 3 });
     return (sql, params) => pool.query(sql, params as any[]);
   }
   const { PGlite } = await import("@electric-sql/pglite");
@@ -95,7 +98,10 @@ export async function db(): Promise<Q> {
       for (const stmt of SCHEMA.split(";").map((s) => s.trim()).filter(Boolean)) await q(stmt);
       await seed(q);
       return q;
-    })();
+    })().catch((e) => {
+      queryFn = null; // retry on the next request instead of caching the failure
+      throw e;
+    });
   return queryFn;
 }
 

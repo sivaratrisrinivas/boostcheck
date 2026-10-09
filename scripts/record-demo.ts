@@ -24,11 +24,12 @@ async function caption(page: Page, text: string) {
 const wait = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
 async function smoothScroll(page: Page, to: number, ms = 1500) {
-  await page.evaluate(([y, d]) => new Promise<void>((res) => {
+  // Passed as a string so the bundler does not inject helpers into browser code.
+  await page.evaluate(`new Promise((res) => {
     const start = window.scrollY, t0 = performance.now();
-    const step = (t: number) => { const k = Math.min(1, (t - t0) / d); window.scrollTo(0, start + (y - start) * k); k < 1 ? requestAnimationFrame(step) : res(); };
+    const step = (t) => { const k = Math.min(1, (t - t0) / ${ms}); window.scrollTo(0, start + (${to} - start) * k); k < 1 ? requestAnimationFrame(step) : res(); };
     requestAnimationFrame(step);
-  }), [to, ms] as const);
+  })`);
 }
 
 (async () => {
